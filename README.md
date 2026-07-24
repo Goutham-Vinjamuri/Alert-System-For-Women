@@ -51,7 +51,10 @@ TinyGPS++
 LiquidCrystal_I2C
 ```
 ---
-<img width="1200" height="1600" alt="1" src="https://github.com/user-attachments/assets/cea7f923-1690-4337-be03-830bdc4a4862" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cea7f923-1690-4337-be03-830bdc4a4862" width="350" alt="1">
+</p>
 
 ---
 
